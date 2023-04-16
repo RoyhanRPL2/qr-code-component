@@ -9,6 +9,7 @@
 
 body {
     background-color: hsl(212, 45%, 89%);
+    width: 1440px;
 }
 
 
@@ -47,7 +48,7 @@ body {
 }
 
 .container .wrapper .description {
-    width: 100%;
+    width: 90%;
     font-family: 'Outfit', sans-serif;
     font-size: 0.9rem;
     font-weight: 400;
